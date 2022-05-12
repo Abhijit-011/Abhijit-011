@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+### Wake Up to Reality!
+### Get a Cup of coffe and type some Code.
+
 <!--
-**Abhijit-011/Abhijit-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**STREIN-11/STREIN-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Abhijit-011&theme=midnight-purple&show_icons=true">
